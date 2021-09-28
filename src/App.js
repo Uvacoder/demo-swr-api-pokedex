@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Pokemon from './components/Pokemon';
+// import Pokemon from './components/Pokemon';
 import { usePagination } from './hooks/usePagination';
 
 function App() {
